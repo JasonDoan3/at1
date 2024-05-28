@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T06:06:16.780Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="IR1OPRcy08BSWHro1tFT" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T06:07:24.431Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="r3Ezlaq2u1W3AMYafDw_" version="24.4.9" type="github">
   <diagram name="Page-1" id="73w_k6BYk06fKzACn_kF">
-    <mxGraphModel dx="404" dy="217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -94,8 +94,23 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="UPV07S9J4BHIwBt-gZXX-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UPV07S9J4BHIwBt-gZXX-47" target="UPV07S9J4BHIwBt-gZXX-35">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="UPV07S9J4BHIwBt-gZXX-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.993;entryY=0.609;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UPV07S9J4BHIwBt-gZXX-35" target="UPV07S9J4BHIwBt-gZXX-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPV07S9J4BHIwBt-gZXX-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="UPV07S9J4BHIwBt-gZXX-35" target="UPV07S9J4BHIwBt-gZXX-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="748" />
+              <mxPoint x="520" y="1023" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UPV07S9J4BHIwBt-gZXX-62" value="Loan is processed&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UPV07S9J4BHIwBt-gZXX-61">
+          <mxGeometry x="-0.2069" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
